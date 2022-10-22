@@ -4,7 +4,7 @@ package hw1JavaBasics;
 
  */
 
-public class MySelf {
+public class Myself {
 
 	public static void main(String[] args) {
 		System.out.println("Asraful islam");
