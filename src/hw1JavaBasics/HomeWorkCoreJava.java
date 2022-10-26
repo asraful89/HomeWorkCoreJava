@@ -1,10 +1,8 @@
 package hw1JavaBasics;
 /*
- Project --> Project name starts with 
- package name --> "hw1JavaBasic", Class name--> 
-  "MySelf" (Don't select the main method while creating Class).
- Can you get the main method by a short cut?
-
+ Project --> Project name starts with upper case
+ package name --> package name start with lower case. 
+ Class name --> start with Upper case.
  */
 public class HomeWorkCoreJava {
 	// main method is  entry point for java 
@@ -16,6 +14,4 @@ public class HomeWorkCoreJava {
 		System.out.println("12394 champain AVE Warren");
 		
 	}
-	
-
 }
